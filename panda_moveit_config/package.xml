@@ -9,8 +9,8 @@
 		A project-internal configuration for testing in MoveIt.
     </p>
   </description>
-  <author email="mike@picknik.ai">Mike Lautman</author>
-  <maintainer email="mike@picknik.ai">Mike Lautman</maintainer>
+  <author email="jere@picknik.ai">Jere Liukkonen</author>
+  <maintainer email="jere@picknik.ai">Jere Liukkonen</maintainer>
 
   <license>BSD</license>
 
